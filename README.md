@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>Building RAG pipelines for the Dheera AI project at ITMTB Technologies<br><br>Enhancing Studybuddy, my AI-powered student portal<br><br>Improving my backend engineering skills (Spring Boot • Python • Postgres)<br><br>👯 I’m looking to collaborate on<br><br>AI/ML projects, especially RAG, LLM tools, and automation<br><br>Open-source backend or full-stack projects<br><br>Anything involving knowledge extraction, dashboards, or data-driven apps<br><br>🤝 I’m looking for help with<br><br>Optimizing LLM inference + vector search performance<br><br>Scaling RAG systems for real-time, multi-document workloads<br><br>🌱 I’m currently learning<br><br>Advanced RAG architectures (agents, multi-hop reasoning)<br><br>LangChain, LLMOps, and model evaluation<br><br>System design & cloud-native deployments<br><br>💬 Ask me about<br><br>RAG, LLMs, and building real AI applications<br><br>Backend development (Spring Boot, Flask, Postgres)<br><br>Studybuddy — how I built a syllabus-aware AI student assistant<br><br>Dashboards, ECharts.js, and data visualizations
+I’m Sujal Singh Rawat, a final-year CSE (AI & ML) student and currently a Software Engineering Intern at ITMTB Technologies, working on RAG pipelines for the Dheera AI project.
+
+I’m passionate about LLMs, RAG systems, backend engineering, and automation. I enjoy building practical AI products — including Studybuddy, an AI-powered student portal that provides syllabus-aware chat, PYQs, and smart learning tools.
 
 
 ## 🌐 Socials:
