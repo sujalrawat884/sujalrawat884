@@ -1,5 +1,5 @@
-# 💫 About Me:
-I’m Sujal Singh Rawat, a final-year CSE (AI & ML) student and currently a Software Engineering Intern at ITMTB Technologies, working on RAG pipelines for the Dheera AI project.
+## 💫 Hi👋, I'm Sujal Singh Rawat:
+Software Engineering Intern at ITMTB Technologies, working on RAG pipelines for the Dheera AI project.
 
 I’m passionate about LLMs, RAG systems, backend engineering, and automation. I enjoy building practical AI products — including Studybuddy, an AI-powered student portal that provides syllabus-aware chat, PYQs, and smart learning tools.
 
